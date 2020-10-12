@@ -1,0 +1,6 @@
+Basic functional requirements for a trainticketreservationsystem are: To add trains,To view trains,To book a ticket,To cancel a ticket and cancel a train
+The non functional requirements are : The user must provide proper data according to the given options.
+The console based application is portable ,so moving from one OS to Another OS does not create any problems.
+The application is user friendly.
+Software used: Code:: Blocks IDE 20.03 using GCC compiler.
+Software requirements:  Windows 8 or higher versions. Visual studio|Code:: blocks software.
