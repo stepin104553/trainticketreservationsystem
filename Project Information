@@ -1,0 +1,12 @@
+Trainticketreservationsystem: It is based on how to reserve train tickets of different destinations.There is a login system,train details are Train number,From,To,fare of first classand fare of second class.By choosing reservation of ticket ,User has to enter the name ,Gender specification,train number,enter travelling class(first,second class),address,age and mobile numberand choose the train to travel according to the destination.After reserving a ticket we can cancel the reservation.
+Project contains some functions enterchoice(): for displaying available options to the user and returning the choice entered by him.
+enter choice: It displays the Project title at the center of the firsst row. It will display the list of options to the user.It will then wait for user input and return the inputted choice to the main().
+                                 add_trains():  for adding some train details to a file.Here I created a file called alltrains.dat and add records of several trains for which booking will be done 
+                                 view_trains(): for displaying details of all the trains from a file.
+                                 book_ticket(): for accepting a passenger variable file as argument and booking his ticket.If booking is successful it will return the ticket number,otherwise it will return -1.
+                                 getticketno(): for accepting a passengers mobile number as argument and returning all his ticket number.If record is not present it return NULL.
+After resrving the ticket we can view the ticket which contains details and cancel the ticket and train.
+                                 
+                                 
+                                  
+                                 
